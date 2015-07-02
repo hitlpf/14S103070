@@ -1,4 +1,5 @@
-﻿import java.io.*;
+﻿//p2p客户端的代码
+import java.io.*;
 import java.*;
 import java.io.*;
 import java.net.*;
